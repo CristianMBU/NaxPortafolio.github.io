@@ -1,2 +1,2 @@
-# NaxPortafolio.github.io
+# naxportafolio.github.io
 Hello world
